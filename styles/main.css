@@ -48,7 +48,6 @@ body,
    height: 6rem;
    width: 6rem;
    border-radius: 50%;
-   border: 2px solid var(--clr-link);
    margin: 0.375rem;
 }
 
