@@ -1,4 +1,2 @@
-# EhGavinoLinks
-- Link site for social accounts
+- LinkTree Replica
 - Built by Matt Bender
-- HTML, CSS, JS
